@@ -2,34 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Udacity's Data Analyst Nanodegree
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[IMDB Dataset Investigation](/udacity/imdb/imdb-movie.html)
+
+**Techstacks:** Pandas, Numpy, Matplotlib, Seaborn, Data Wrangling, Data Exploration (EDA), Data Visualization
+
+During this Udacity project, TMDb movie data set which contains information about 10,000 movies. In terms of the data set, it was cleaned from original data on <a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata">Kaggle</a>, and is about to get cleaned second time to focus and answer the main questions.
+After data analysis steps of data wrangling, and EDA, I hope to provide some useful insights about the data set through answering these following questions with visualizations:
+
+- Question 1: Which genres are most popular overtime ?
+- Question 2: What are time series of top 5 movie genres?
+- Question 3: What are factors associated with revenue levels?
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/1200px-IMDB_Logo_2016.svg.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Udacity's Business Analytics Nanodegree
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
