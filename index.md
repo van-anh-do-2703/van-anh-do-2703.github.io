@@ -6,7 +6,7 @@
 
 [IMDB Dataset Investigation](/udacity/imdb/imdb-movie.html)
 
-**Techstacks:** Pandas, Numpy, Matplotlib, Seaborn, Data Wrangling, Data Exploration (EDA), Data Visualization
+**Techstacks:** Jupyter Notebook, Pandas, Numpy, Matplotlib, Seaborn, Data Wrangling, Data Exploration (EDA), Data Visualization
 
 During this Udacity project, I investigated [TMDB movie dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) which contains information about 10,000 movies.
 After data analysis steps of data wrangling, and EDA, I hope to provide some useful insights about the data set through answering these following questions with visualizations:
