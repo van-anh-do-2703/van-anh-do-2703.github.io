@@ -8,7 +8,7 @@
 
 **Techstacks:** Pandas, Numpy, Matplotlib, Seaborn, Data Wrangling, Data Exploration (EDA), Data Visualization
 
-During this Udacity project, TMDb movie data set which contains information about 10,000 movies. In terms of the data set, it was cleaned from original data on <a href="https://www.kaggle.com/tmdb/tmdb-movie-metadata">Kaggle</a>, and is about to get cleaned second time to focus and answer the main questions.
+During this Udacity project, I investigated [TMDB movie dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata) which contains information about 10,000 movies.
 After data analysis steps of data wrangling, and EDA, I hope to provide some useful insights about the data set through answering these following questions with visualizations:
 
 - Question 1: Which genres are most popular overtime ?
