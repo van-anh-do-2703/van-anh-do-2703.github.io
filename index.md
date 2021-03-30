@@ -23,5 +23,5 @@ During this Udacity project, I investigated [TMDB movie dataset](https://www.kag
 
 During this project, I analyzed New York Stock Exchange data using Summary Statistics and communicated findings with visualizations. The main goals for this project is to:
 
-- created a dashboard for Profit and Loss Statement populating automatically with each selected company
-- created a financial forecast model with three scenarios (best case, base case, and weak case).
+- create a **dashboard for Profit and Loss Statement** populating automatically with each selected company
+- create a **financial forecast model** with three scenarios (best case, base case, and weak case).
