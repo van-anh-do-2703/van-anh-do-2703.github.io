@@ -18,4 +18,12 @@ After data analysis steps of data wrangling, and EDA, I hope to provide some use
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/IMDB_Logo_2016.svg/1200px-IMDB_Logo_2016.svg.png?raw=true"/>
 
 ---
+
+[NYSE Dataset Investigation](/udacity/nyse/nyse.pdf)
+
+**Techstacks:** WIP
+
+<img src="https://fi.wikipedia.org/wiki/New_Yorkin_p%C3%B6rssi#/media/Tiedosto:NY_Stock_Exchange_logo.svg?raw=true"/>
+
+---
 ### Udacity's Business Analytics Nanodegree
