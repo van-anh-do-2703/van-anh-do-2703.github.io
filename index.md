@@ -17,6 +17,13 @@ During this Udacity project, I investigated [TMDB movie dataset](https://www.kag
 ---
 ### Udacity's Business Analytics Nanodegree
 
+[Youtube Data Visualization Dashboard](https://public.tableau.com/profile/van.anh.do#!/vizhome/Youtube_tableau/YoutubeVideoData?publish=yes)
+
+**Techstacks:** Tableau, Calculated fields, Filter, Sheet Views, Dashboard, Parameters, Functions
+
+In this project, I created visualizations to reveal insights from YouTube video data set. Data visualizations include a Tableau dashboard and relevant worksheets that highlight patterns, such as tag trending and interactions of users with various categories.
+
+---
 [NYSE Dataset Investigation](/udacity/nyse/nyse.pdf) - [Excel file](/udacity/nyse/nyse.xlsx)
 
 **Techstacks:** Excel (PivotTable, VLOOKUP, MATCH, INDEX, Data validation, Descriptive Statistics), PowerPoint
