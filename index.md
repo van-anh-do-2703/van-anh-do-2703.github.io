@@ -19,10 +19,12 @@ During this Udacity project, I investigated [TMDB movie dataset](https://www.kag
 
 [SQL Chinook Music Database Queries](/udacity/chinook/doc.md) - [Powerpoint Presentation](/udacity/chinook/presentation.pdf)
 
+---
 **Techstacks:** SQL, SQLite, Aggregation, Sub-queries
 
 In this project, I pulled data using SQL queries from Udacity's Chinook music store database to answer and build visualization into Powerpoint Presentation.
 
+---
 [Youtube Data Visualization Dashboard](https://public.tableau.com/profile/van.anh.do#!/vizhome/Youtube_tableau/YoutubeVideoData?publish=yes)
 
 **Techstacks:** Tableau, Calculated fields, Filter, Sheet Views, Dashboard, Parameters, Functions
