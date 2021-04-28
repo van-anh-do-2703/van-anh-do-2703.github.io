@@ -19,7 +19,6 @@ During this Udacity project, I investigated [TMDB movie dataset](https://www.kag
 
 [SQL Chinook Music Database Queries](/udacity/chinook/doc.md) - [Powerpoint Presentation](/udacity/chinook/presentation.pdf)
 
----
 **Techstacks:** SQL, SQLite, Aggregation, Sub-queries
 
 In this project, I pulled data using SQL queries from Udacity's Chinook music store database to answer and build visualization into Powerpoint Presentation.
