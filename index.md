@@ -5,6 +5,7 @@
 **Tech Stack:** SQL, PostgreSQL, window function, sub-queries, join
 - Applied basic and advanced queries to analyze the data 
 - Gained valuable insights to compile strategic recommendations from a large dataset
+
 ---
 [RDBMS Refactoring](/udacity/social/project.pdf)
 
@@ -12,6 +13,7 @@
 - Investigated provided data model for potential errors (lack of normalization, consistency rules, and proper indexing)
 - Created a new, normalized database using DDL based on the denormalized one that is provided
 - Wrote DML queries to migrate the data from the denormalized schema to their normalized schema
+
 ---
 [IMDB Dataset Investigation](/udacity/imdb/imdb-movie.html)
 
@@ -22,6 +24,7 @@ During this Udacity project, I investigated [TMDB movie dataset](https://www.kag
 - Which genres are most popular overtime ?
 - What are time series of top 5 movie genres?
 - What are factors associated with revenue levels?
+
 ---
 [SQL Chinook Music Database Queries](/udacity/chinook/doc.md) - [Powerpoint Presentation](/udacity/chinook/presentation.pdf)
 
@@ -45,6 +48,7 @@ During this project, I analyzed New York Stock Exchange data using Summary Stati
 
 - create a **dashboard for Profit and Loss Statement** populating automatically with each selected company
 - create a **financial forecast model** with three scenarios (best case, base case, and weak case).
+
 ---
 ### Certificates
 - [SQL Nanodegree](https://confirm.udacity.com/RHMEYTD2) (Issued by Udacity)
